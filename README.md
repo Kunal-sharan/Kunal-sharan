@@ -29,3 +29,5 @@ I'm a beginner at front-end web development and designing . All coding projects 
 <h2>👨‍💻 Codedrago07's Coding Journey/Projects </h2>
 I started recently and will definetly do great in this domain.
 <h3>My Projects</h3>
+
+I like anime so I created my first basic project on that do check out <a href="https://codedrago07.github.io/webproject01/">Anime fans!! </a>
