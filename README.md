@@ -3,10 +3,10 @@
 
 I'm a beginner at front-end web development and designing . All coding projects are built from the ground up, from planning and designing all the way to creating unique web pages.
 <p align="left">
-<a href="https://github.com/codedrago07?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/codedrago07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/codedrago07?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/codedrago07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://github.com/Shenron07?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Shenron07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Shenron07?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Shenron07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
    ---
@@ -20,7 +20,7 @@ I'm a beginner at front-end web development and designing . All coding projects 
 
 ### 📊 Stats
 
-![Codedrago's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedrago07&show_icons=true&theme=gruvbox)
+![Codedrago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shenron07&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=codedrago07&theme=gruvbox&border_radius=4.5) -->
 
