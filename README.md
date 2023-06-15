@@ -18,10 +18,6 @@ I'm a beginner at front-end web development and designing . All coding projects 
 
 #
 
-### 📊 Stats
-
-![Codedrago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shenron07&show_icons=true&theme=gruvbox)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=codedrago07&theme=gruvbox&border_radius=4.5) -->
 
 #
