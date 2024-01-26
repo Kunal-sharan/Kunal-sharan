@@ -1,4 +1,4 @@
-# Shenron07
+# Kunal Sharan
 ## Web/App Developer 
 
 Aspiring web developer with a passion for crafting dynamic and user-friendly websites.
@@ -25,20 +25,14 @@ Here are some of the languages and tools I use:
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+<img align="left" alt="Selenium WebDriver" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original-wordmark.svg" />
+<img align="left" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <br/>
 <br/>
 
 ---
-
-## 👨‍💻 My Coding Journey and Projects
-
-I've recently started my journey in this domain and I'm confident that I'll do great. Here are some of my projects:
-
-1. Anime Fans: A basic project for anime enthusiasts.
-2. Project 2: _Description here_
-3. Project 3: _Description here_
-4. Project 4: _Description here_
-5. Project 5: _Description here_
-
-Feel free to check them out!
