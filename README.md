@@ -6,12 +6,7 @@ Currently developing websites as a hobby, I aspire to transition into a Python d
 Committed to continuous learning and growth in the evolving tech landscape.
 If you are interested about AI and python let's connect and explore together.
 
-<p align="left">
-<a href="https://github.com/Shenron07?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Shenron07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/Shenron07?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Shenron07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+
 
 ---
 
