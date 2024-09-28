@@ -1,5 +1,5 @@
 # Kunal Sharan
-## Web/App Developer 
+# GenerativeAI Web/App Developer 
 
 Aspiring web developer with a passion for crafting dynamic and user-friendly websites.
 Currently developing websites as a hobby, I aspire to transition into a Python developer role and delve into data science and analysis.
