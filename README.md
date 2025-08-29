@@ -57,7 +57,7 @@
 
 ## 📫 Connect with Me  
 
-🌐 [Portfolio / Streamlit Apps](https://pdf-text-totxtconverter-e6czljhy2quqehpwisivgf.streamlit.app/)  
+🌐 [Portfolio](https://kunalsharan-ai-showcase.lovable.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/kunal-sharan-4b018a260/)  
 💻 [GitHub](https://github.com/Kunal-sharan)  
 📧 ks904@snu.edu.in  
