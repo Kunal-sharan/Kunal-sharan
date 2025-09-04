@@ -40,7 +40,8 @@
 ## 🏆 Achievements  
 
 - 🥉 **3rd place** – AI FOR INDIA Hackathon (OpenRAG & Axamine.ai)  
-- 🏅 **6th place** – SMARTATHON (AIC, Shiv Nadar University)  
+- 🏅 **6th place** – SMARTATHON (AIC, Shiv Nadar University)
+- 🏅 **4th place** – HACKATHON (Simplify AI Tools)
 - ✍️ Co-authored *“AI Recipe Generators”*, published in **Food Marketing & Technology (FMT) Magazine** (Oct 2024)  
 - 🎖️ Certificate of Appreciation from **OpenRAG** for contributions to *DocDynamo*  
 
